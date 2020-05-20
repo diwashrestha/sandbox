@@ -1,0 +1,9 @@
+F:\PROJECTS\todoBlazor\todoBlazor\Shared\bin\Release\netstandard2.1\todoBlazor.Shared.deps.json
+F:\PROJECTS\todoBlazor\todoBlazor\Shared\bin\Release\netstandard2.1\todoBlazor.Shared.dll
+F:\PROJECTS\todoBlazor\todoBlazor\Shared\bin\Release\netstandard2.1\todoBlazor.Shared.pdb
+F:\PROJECTS\todoBlazor\todoBlazor\Shared\obj\Release\netstandard2.1\todoBlazor.Shared.csprojAssemblyReference.cache
+F:\PROJECTS\todoBlazor\todoBlazor\Shared\obj\Release\netstandard2.1\todoBlazor.Shared.AssemblyInfoInputs.cache
+F:\PROJECTS\todoBlazor\todoBlazor\Shared\obj\Release\netstandard2.1\todoBlazor.Shared.AssemblyInfo.cs
+F:\PROJECTS\todoBlazor\todoBlazor\Shared\obj\Release\netstandard2.1\todoBlazor.Shared.csproj.CoreCompileInputs.cache
+F:\PROJECTS\todoBlazor\todoBlazor\Shared\obj\Release\netstandard2.1\todoBlazor.Shared.dll
+F:\PROJECTS\todoBlazor\todoBlazor\Shared\obj\Release\netstandard2.1\todoBlazor.Shared.pdb
